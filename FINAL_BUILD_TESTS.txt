@@ -1,0 +1,15 @@
+CYBER RAKSHAK FINAL — AUTH FIX VALIDATION
+=========================================
+PASS: Python source compiles after auth fix
+PASS: datetime.date imported for registration date_input
+PASS: Gmail/email/username login field present
+PASS: Cyber Rakshak password field present
+PASS: Optional Continue with Google button present
+PASS: Google/OIDC configuration guard present
+PASS: Google identity sync to local account present
+PASS: Google password is not collected by the app
+PASS: Part 1 navigation preserved
+PASS: Part 2 Network Intelligence navigation preserved
+PASS: Responsible-use boundary preserved
+NOTE: Real Google OAuth requires the user's own Google Cloud OAuth client and .streamlit/secrets.toml configuration.
+NOTE: Browser-level runtime/OAuth testing was not possible in this build environment because Streamlit was not installed here.
