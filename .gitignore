@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.streamlit/secrets.toml
+.streamlit/secrets.local.toml
+server_data/*.sqlite3
+server_data/*.db
+server_data/*.sqlite3-shm
+server_data/*.sqlite3-wal
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
