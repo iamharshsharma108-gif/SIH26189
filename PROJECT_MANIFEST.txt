@@ -1,5 +1,0 @@
-CYBER RAKSHAK FINAL
-Main app: cyber_rakshak_final.py
-Separate admin site: admin_portal.py
-Central runtime data: server_data/ (ignored by Git)
-Secrets template: .streamlit/secrets.toml.example
